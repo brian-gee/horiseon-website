@@ -9,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Styling for header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,6 +43,7 @@ body {
     margin-left: 25px;
 }
 
+/* Text styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -61,11 +63,13 @@ p {
     background-position: center;
 }
 
+/* Article styling */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Aside styling */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -77,6 +81,7 @@ p {
     margin-left: 20px;
 }
 
+/* Styling for benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -88,7 +93,6 @@ p {
     background-color: #2589bd;
 }
 
-/* Styling for benefits section */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
