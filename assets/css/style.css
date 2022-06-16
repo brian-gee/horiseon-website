@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Styling for body text */
 body {
     background-color: #d9dcd6;
 }
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Styling for background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -86,6 +88,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Styling for benefits section */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -188,6 +191,7 @@ p {
     font-size: 36px;
 }
 
+/* Styling for footer */
 .footer {
     padding: 30px;
     clear: both;
